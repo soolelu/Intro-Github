@@ -9,4 +9,4 @@
 
 ### Agregaremos Imagen
 
-¡[hack](img/chica.png)
+![hack](img/chica.png)

@@ -1,5 +1,7 @@
-# Intrducción a Github
+# Intro-Github
 
-## Charla-Taller
+## Introducción a Github
+
+### Charla-Taller
 
  Sesión de github
